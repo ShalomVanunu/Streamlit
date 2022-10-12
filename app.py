@@ -9,7 +9,7 @@ def load_file(name):
 col1, col2= st.columns(2)
 
 with col1:
-    st.write(" add column : st.columns(2)")
+    st.write(" add column : st.columns(1)")
     data_file = load_file("streamlit.png")
     st.image(data_file, width=100)
 with col2:
