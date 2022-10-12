@@ -5,7 +5,7 @@ import streamlit as st
 
 clicked = st.button("st.button()  --> Click me!")
 if clicked:
-    st.write("Clicked!")
+    st.success("Clicked!")
 
 checked = st.checkbox("st.checkbox()   --> Check me!")
 st.write(f"Check status :{checked}")

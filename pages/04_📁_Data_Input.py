@@ -24,3 +24,5 @@ range_input = st.date_input("st.date_input( " ",value=)    --> ",
                             value=(date.datetime.now(),date.datetime.now()))
 
 time_input = st.time_input("st.time_inpdut()     -->  ")
+
+camera_photo = st.camera_input("st.camera_input  ---> Take Photo")
