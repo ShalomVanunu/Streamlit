@@ -45,9 +45,9 @@ with st.container():
     with col1:
         st.video("https://youtu.be/YClmpnpszq8")
     with col2:
-        st.video("https://youtu.be/VqgUkExPvLY")
+        st.video("https://youtu.be/4SO3CUWPYf0")
     with col3:
-        st.video("https://youtu.be/_Um12_OlGgw")
+        st.video("https://youtu.be/BXAeMICmUSQ")
 
 st.write("------")
 st.subheader(" Created by :copyright:Shalom Vanunu :computer:")

@@ -17,3 +17,7 @@ Python -m venv venv
 Venv\scripts\activate
 
 pip freeze > requirements.txt 
+
+# Create Render
+
+streamlit run app.py
